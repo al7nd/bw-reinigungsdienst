@@ -57,7 +57,7 @@ export default function CookieRichtlinien() {
 
             <section>
               <h2 className="text-xl font-bold text-gray-900 mb-4">Kontakt</h2>
-              <p className="text-gray-600">Bei Fragen: <a href="mailto:info@bwreinigungsdienst.de" className="text-blue-600 hover:underline">info@bwreinigungsdienst.de</a></p>
+              <p className="text-gray-600">Bei Fragen: <a href="mailto:info@bw-reinigungsdienst.de" className="text-blue-600 hover:underline">info@bw-reinigungsdienst.de</a></p>
             </section>
           </div>
         </motion.div>
