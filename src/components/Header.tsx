@@ -31,7 +31,7 @@ export default function Header() {
             </a>
             <a href="mailto:info@bwreinigungsdienst.de" className="flex items-center gap-2 hover:text-blue-200">
               <Mail size={14} />
-              <span>info@bwreinigungsdienst.de</span>
+              <span>info@bw-reinigungsdienst.de</span>
             </a>
           </div>
           <div className="flex items-center gap-2">
