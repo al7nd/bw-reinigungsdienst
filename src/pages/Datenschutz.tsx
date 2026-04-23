@@ -21,7 +21,7 @@ export default function Datenschutz() {
                 <p className="text-gray-600">
                   <strong className="text-gray-900">BW Reinigungsdienst</strong><br/>Inhaber: Yusef Kasem<br/>Rheinische Str. 28<br/>44651 Herne<br/><br/>
                   <strong className="text-gray-900">Kontaktaufnahme:</strong><br/>
-                  <span className="flex items-center gap-2 mt-2"><Mail size={16} className="text-blue-600" /><a href="mailto:info@bw-reinigungsdienst.de" className="text-blue-600 hover:underline">info@bwreinigungsdienst.de</a></span>
+                  <span className="flex items-center gap-2 mt-2"><Mail size={16} className="text-blue-600" /><a href="mailto:info@bw-reinigungsdienst.de" className="text-blue-600 hover:underline">info@bw-reinigungsdienst.de</a></span>
                   <span className="flex items-center gap-2 mt-1"><Phone size={16} className="text-blue-600" /><span>0155 6730 8109</span></span>
                 </p>
               </div>
