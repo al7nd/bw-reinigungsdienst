@@ -25,7 +25,7 @@ export default function Impressum() {
               <h2 className="text-xl font-bold text-gray-900 mb-4">Kontakt</h2>
               <div className="grid md:grid-cols-2 gap-4">
                 <a href="tel:015567308109" className="flex items-center gap-3 p-4 bg-gray-50 rounded-xl hover:bg-blue-50"><Phone className="text-blue-600" size={20} /><span className="text-gray-700">0155 6730 8109</span></a>
-                <a href="mailto:info@bwreinigungsdienst.de" className="flex items-center gap-3 p-4 bg-gray-50 rounded-xl hover:bg-blue-50"><Mail className="text-blue-600" size={20} /><span className="text-gray-700">info@bwreinigungsdienst.de</span></a>
+                <a href="mailto:info@bwreinigungsdienst.de" className="flex items-center gap-3 p-4 bg-gray-50 rounded-xl hover:bg-blue-50"><Mail className="text-blue-600" size={20} /><span className="text-gray-700">info@bw-reinigungsdienst.de</span></a>
               </div>
             </section>
 
@@ -33,7 +33,7 @@ export default function Impressum() {
               <h2 className="text-xl font-bold text-gray-900 mb-4">Webseite</h2>
               <div className="flex items-center gap-3 p-4 bg-blue-50 rounded-xl">
                 <Globe className="text-blue-600" size={20} />
-                <span className="text-blue-600 font-medium">bwreinigungsdienst.de | bwreinigungsdienst.com</span>
+                <span className="text-blue-600 font-medium">bwreinigungsdienst.de</span>
               </div>
             </section>
 
