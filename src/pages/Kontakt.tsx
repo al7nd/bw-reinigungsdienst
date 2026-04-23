@@ -104,7 +104,7 @@ export default function Kontakt() {
                   </a>
                   <a href="mailto:info@bwreinigungsdienst.de" className="flex items-center gap-4 p-4 bg-gray-50 rounded-xl hover:bg-blue-50 group">
                     <div className="w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center group-hover:bg-blue-700"><Mail className="text-white" size={24} /></div>
-                    <div><div className="font-semibold text-gray-900">E-Mail</div><div className="text-blue-600">info@bwreinigungsdienst.de</div></div>
+                    <div><div className="font-semibold text-gray-900">E-Mail</div><div className="text-blue-600">info@bw-reinigungsdienst.de</div></div>
                   </a>
                   <a href="https://wa.me/4915567308109" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 bg-green-50 rounded-xl hover:bg-green-100 group">
                     <div className="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center group-hover:bg-green-600"><MessageCircle className="text-white" size={24} /></div>
