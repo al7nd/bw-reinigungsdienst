@@ -18,9 +18,9 @@ export default function Home() {
   ];
 
   const testimonials = [
-    { name: 'Michael Schneider', location: 'Berlin', rating: 5, text: 'Nach einem Wasserschaden war BW Reinigungsdienst innerhalb von 2 Stunden vor Ort. Absolute Empfehlung!' },
-    { name: 'Sandra Weber', location: 'München', rating: 5, text: 'Die Unterhaltsreinigung unserer Praxis wird seit einem Jahr zuverlässig durchgeführt. Sehr zufrieden!' },
-    { name: 'Thomas Müller', location: 'Hamburg', rating: 5, text: 'Die Brandschadensanierung wurde hervorragend durchgeführt. Von der Rußbeseitigung bis zum Wiederaufbau.' },
+    { name: 'Edris K.', location: 'Herne', rating: 4.9, text: Nach einem Wasserschaden waren die Arbeiter in weniger als 2 Stunden am Einsatzort. Kann ich nur weiter empfehlen! },
+    { name: 'Alan H.', location: 'Pforzheim', rating: 4.5, text: Die Unterhaltsreinigung unseres Hauses wird seit einem Jahr zuverlässig durchgeführt. Sehr zufrieden. },
+    { name: 'Marco O.', location: 'Bochum', rating: 5, text: Die Brandschadensanierung wurde hervorragend durchgeführt. Von der Rußbeseitigung bis zum Wiederaufbau, sehr empfehlenswert. },
   ];
 
   return (
