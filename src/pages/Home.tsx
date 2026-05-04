@@ -18,9 +18,9 @@ export default function Home() {
   ];
 
   const testimonials = [
-    { name: 'Edris K.', location: 'Herne', rating: 4.9, text: Nach einem Wasserschaden waren die Arbeiter in weniger als 2 Stunden am Einsatzort. Kann ich nur weiter empfehlen! },
-    { name: 'Alan H.', location: 'Pforzheim', rating: 4.5, text: Die Unterhaltsreinigung unseres Hauses wird seit einem Jahr zuverlässig durchgeführt. Sehr zufrieden. },
-    { name: 'Marco O.', location: 'Bochum', rating: 5, text: Die Brandschadensanierung wurde hervorragend durchgeführt. Von der Rußbeseitigung bis zum Wiederaufbau, sehr empfehlenswert. },
+    { name: 'Edris K.', location: 'Herne', rating: 4.9, text: 'Nach einem Wasserschaden waren die Arbeiter in weniger als 2 Stunden am Einsatzort. Kann ich nur weiter empfehlen!' },
+    { name: 'Alan H.', location: 'Pforzheim', rating: 4.5, text: 'Die Unterhaltsreinigung unseres Hauses wird seit einem Jahr zuverlässig durchgeführt. Sehr zufrieden.' },
+    { name: 'Marco O.', location: 'Bochum', rating: 5, text: 'Die Brandschadensanierung wurde hervorragend durchgeführt. Von der Rußbeseitigung bis zum Wiederaufbau, sehr empfehlenswert.' },
   ];
 
   return (
